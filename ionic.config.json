@@ -1,0 +1,7 @@
+{
+  "name": "i-tijara",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
